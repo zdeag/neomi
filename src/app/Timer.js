@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useState } from "react";
 
 const TARGET_DATE = new Date("2025-07-04T00:00:00-04:00"); // EDT for July 4th
